@@ -1,0 +1,5 @@
+While my wife was having contractions for our first baby, I wrote a quick and dirty bash script using time and an infinite while loop.  It would wait for input, time how long it took to receive input, and report it.  It required Ctrl-D or return to be pressed.
+
+It worked but I wanted something better.  (It was also 2:30 am and my wife's contractions were slowly getting stronger)  I wrote this script in python which allowed any key to be pressed to start and stop the timer.  I also set it up to measure the time between contractions.
+
+It's still pretty quick and dirty, but I thought it was fun.
